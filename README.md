@@ -1,9 +1,9 @@
 
-# İNEK MÜZİK  🇹🇷
-- [Müzik Bot](https://t.me/inekobasiTR) Telegram Gurup .
+# ANA BOT  🇹🇷
+- [Murtix Bot](https://t.me/murtix_bot) Telegram Gurup .
 
 # İNEK GURUBUMUZ 
-- [İNEK GURUP](https://t.me/inekobasiTR) Telegram Grub .
+- [İnek OBASI](https://t.me/inekobasiTR) Telegram Grub .
 
 
 ### ⏳ Komutlar
@@ -26,15 +26,6 @@
 -
 
 
-### İNEK GURUP
+### SAHİP
 
-(https://t.me/inekobasiTR)
-
-### SAHİP 
 (https://t.me/uslanmazmurti)
-
-### gurup sahip 
-(https://t.me/hasankayakarakus)
-
-### Y KURUCU
-(https://t.me/akillanmazadam)
