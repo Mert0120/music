@@ -22,19 +22,9 @@
 
 
 ### Heroku Kurulum ⏳
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Mert0120/Music)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mrt020835c06/Music)
 -
 
 
-### İNEK GURUP
-
-(https://t.me/inekobasiTR)
-
 ### SAHİP 
 (https://t.me/uslanmazmurti)
-
-### gurup sahip 
-(https://t.me/hasankayakarakus)
-
-### Y KURUCU
-(https://t.me/akillanmazadam)
